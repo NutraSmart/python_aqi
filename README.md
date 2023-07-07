@@ -1,5 +1,5 @@
 # python_aqi
-python wrapper for AirNow API
+python wrapper for AirNow API \n
 request air quality data
 
 requires an API key from airnow.gov
